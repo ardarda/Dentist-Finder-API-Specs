@@ -1,0 +1,23 @@
+# Dentist Finder API Object Scheme
+
+{"user":{
+	"name"		:"Arda Cicek",
+	"email"		:"ardasnow@gmail.com",
+	"phone"		:"+905353492856",
+	"lastLocation"	:{
+		"latitude"	:43.4545,
+		"longitude"	:52.545
+	}
+}
+
+{"dentist":{
+	"name"		:"Arda Cicek",
+	"speciality":"Ortodontist",
+	"email"		:"ardasnow@gmail.com",
+	"phone"		:"+905353492856",
+	"address"	:"Iskele Mah William Shakespear Caddesi Yeni Panpalar Sitesi B-10, Datca",
+	"location"	:{
+		"latitude"	:43.4545,
+		"longitude"	:52.545
+	}
+}

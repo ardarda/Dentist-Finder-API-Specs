@@ -1,0 +1,36 @@
+{
+  "specialities": [
+    {
+      "identifier": "Ağız, Diş ve Çene Cerrahisi",
+      "short": 0
+    },
+    {
+      "identifier": "Ağız, Diş ve Çene Radyolojisi",
+      "short": 1
+    },
+    {
+      "identifier": "Diş Hastalıkları ve Tedavisi",
+      "short": 2
+    },
+    {
+      "identifier": "Endodonti",
+      "short": 3
+    },
+    {
+      "identifier": "Ortodonti",
+      "short": 4
+    },
+    {
+      "identifier": "Pedodonti",
+      "short": 5
+    },
+    {
+      "identifier": "Periodontoloji",
+      "short": 6
+    },
+    {
+      "identifier": "Protetik Diş Tedavisi",
+      "short": 7
+    }
+  ]
+}
