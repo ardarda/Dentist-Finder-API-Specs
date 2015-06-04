@@ -1,0 +1,15 @@
+# API Configuration File
+##
+
+# REQUEST_HEADERS :
+
+Content-Type: application/json
+Authorization: Basic asdkljalsdjladaksdjklajsdjlajs
+
+
+# CREATE User
+
+METHOD	: POST
+URI		: https://api.ctl-gb3-a.orchestrate.io/v0/User?pretty=true
+
+

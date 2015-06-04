@@ -1,9 +1,11 @@
 # Dentist Finder API Object Scheme
 
 {"user":{
-	"name"		:"Arda Cicek",
-	"email"		:"ardasnow@gmail.com",
-	"phone"		:"+905353492856",
+	"name"			:"Arda Cicek",
+	"email"			:"ardasnow@gmail.com",
+	"phone"			:"+905353492856",
+	"deviceType"	:0,
+	"udid"			:"dasdadapd0192839012ad98da89da7sd9a9d789d789ad7a9d7a98d79",
 	"lastLocation"	:{
 		"latitude"	:43.4545,
 		"longitude"	:52.545
@@ -15,6 +17,8 @@
 	"speciality"	:"Ortodontist",
 	"email"			:"ardasnow@gmail.com",
 	"phone"			:"+905353492856",
+	"deviceType"	:0,
+	"udid"			:"dasdadapd0",
 	"address"		:"Iskele Mah William Shakespear Caddesi Yeni Panpalar Sitesi B-10, Datca",
 	"location"		:{
 		"latitude"	:43.4545,
