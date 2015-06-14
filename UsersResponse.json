@@ -1,0 +1,174 @@
+HTTP/1.1 200 OK
+X-ORCHESTRATE-REQ-ID: 93cfc350-12b7-11e5-8285-000c296812f4
+Content-Type: application/json
+Link: </v0/User?limit=10&afterKey=0aa6f8ac132a8d16&pretty=true>; rel="next"
+
+{
+  "count" : 10,
+  "results" : [ {
+    "path" : {
+      "collection" : "User",
+      "kind" : "item",
+      "key" : "0a6e9c38072a437f",
+      "ref" : "1e727a5680d15b68",
+      "reftime" : 1433339804679
+    },
+    "value" : {
+      "name" : "Arda Cicek"
+    },
+    "reftime" : 1433339804679
+  }, {
+    "path" : {
+      "collection" : "User",
+      "kind" : "item",
+      "key" : "0a730d3b592af23f",
+      "ref" : "a907fabea3ffdc5e",
+      "reftime" : 1433414319961
+    },
+    "value" : {
+      "name" : "Erhan ALankus",
+      "email" : "ardasnow@gmail.com",
+      "phone" : "+905353492856",
+      "lastLocation" : {
+        "lat" : 43.4545,
+        "lon" : 52.5454
+      }
+    },
+    "reftime" : 1433414319961
+  }, {
+    "path" : {
+      "collection" : "User",
+      "kind" : "item",
+      "key" : "0a730d84ce2af240",
+      "ref" : "a907fabea3ffdc5e",
+      "reftime" : 1433414338766
+    },
+    "value" : {
+      "name" : "Erhan ALankus",
+      "email" : "ardasnow@gmail.com",
+      "phone" : "+905353492856",
+      "lastLocation" : {
+        "lat" : 43.4545,
+        "lon" : 52.5454
+      }
+    },
+    "reftime" : 1433414338766
+  }, {
+    "path" : {
+      "collection" : "User",
+      "kind" : "item",
+      "key" : "0a730d8bbf2af241",
+      "ref" : "a907fabea3ffdc5e",
+      "reftime" : 1433414340544
+    },
+    "value" : {
+      "name" : "Erhan ALankus",
+      "email" : "ardasnow@gmail.com",
+      "phone" : "+905353492856",
+      "lastLocation" : {
+        "lat" : 43.4545,
+        "lon" : 52.5454
+      }
+    },
+    "reftime" : 1433414340544
+  }, {
+    "path" : {
+      "collection" : "User",
+      "kind" : "item",
+      "key" : "0a730d90832af242",
+      "ref" : "a907fabea3ffdc5e",
+      "reftime" : 1433414341764
+    },
+    "value" : {
+      "name" : "Erhan ALankus",
+      "email" : "ardasnow@gmail.com",
+      "phone" : "+905353492856",
+      "lastLocation" : {
+        "lat" : 43.4545,
+        "lon" : 52.5454
+      }
+    },
+    "reftime" : 1433414341764
+  }, {
+    "path" : {
+      "collection" : "User",
+      "kind" : "item",
+      "key" : "0a730d93b12af243",
+      "ref" : "a907fabea3ffdc5e",
+      "reftime" : 1433414342577
+    },
+    "value" : {
+      "name" : "Erhan ALankus",
+      "email" : "ardasnow@gmail.com",
+      "phone" : "+905353492856",
+      "lastLocation" : {
+        "lat" : 43.4545,
+        "lon" : 52.5454
+      }
+    },
+    "reftime" : 1433414342577
+  }, {
+    "path" : {
+      "collection" : "User",
+      "kind" : "item",
+      "key" : "0aa6f4b9152a6152",
+      "ref" : "f22fa17c25a880c8",
+      "reftime" : 1434285128981
+    },
+    "value" : {
+      "name" : "Er Test",
+      "email" : "ertest@gmail.com",
+      "phone" : "+905551234567",
+      "deviceType" : 0,
+      "udid" : "seks",
+      "lastLocation" : {
+        "latitude" : 40.1234,
+        "longitude" : 50.123
+      }
+    },
+    "reftime" : 1434285128981
+  }, {
+    "path" : {
+      "collection" : "User",
+      "kind" : "item",
+      "key" : "0aa6f5f3cc2a8d15",
+      "ref" : "afcade14fd500ad4",
+      "reftime" : 1434285209549
+    },
+    "value" : {
+      "name" : "Erro Test",
+      "email" : "ertest@gmail.com",
+      "phone" : "+905551234567"
+    },
+    "reftime" : 1434285209549
+  }, {
+    "path" : {
+      "collection" : "User",
+      "kind" : "item",
+      "key" : "0aa6f7c7b32a6153",
+      "ref" : "5d2429bd91d6fc01",
+      "reftime" : 1434285329331
+    },
+    "value" : {
+      "Name" : "Errok Test",
+      "email" : "ertest@gmail.com",
+      "phone" : "+905551234567"
+    },
+    "reftime" : 1434285329331
+  }, {
+    "path" : {
+      "collection" : "User",
+      "kind" : "item",
+      "key" : "0aa6f8ac132a8d16",
+      "ref" : "ee5c815237f7ab49",
+      "reftime" : 1434285387796
+    },
+    "value" : {
+      "name" : "Yorro Test",
+      "email" : "ertest@gmail.com",
+      "phone" : "+905551234567"
+    },
+    "reftime" : 1434285387796
+  } ],
+  "next" : "/v0/User?limit=10&afterKey=0aa6f8ac132a8d16&pretty=true"
+}

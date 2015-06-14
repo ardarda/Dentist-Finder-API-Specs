@@ -1,0 +1,24 @@
+{
+  "count" : 1,
+  "total_count" : 1,
+  "results" : [ {
+    "path" : {
+      "collection" : "dentists",
+      "kind" : "item",
+      "key" : "0a7df292ac2ab421",
+      "ref" : "783067478381f4bd",
+      "reftime" : 1433597122221
+    },
+    "value" : {
+      "location" : {
+        "longitude" : 27.67604,
+        "latitude" : 36.69722
+      },
+      "name" : "Dr. Ibrahim Shultz",
+      "udid" : "24691DB8-57F2-4227-960F-D57BD3E4A721"
+    },
+    "score" : 1.0,
+    "reftime" : 1433597122221
+  } ]
+}
+

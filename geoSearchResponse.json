@@ -1,0 +1,113 @@
+{
+  "count" : 6,
+  "total_count" : 6,
+  "results" : [ {
+    "path" : {
+      "collection" : "dentists",
+      "kind" : "item",
+      "key" : "0a7d6b378c2ab41d",
+      "ref" : "7c7e8f486a5d3f11",
+      "reftime" : 1433588251533
+    },
+    "value" : {
+      "location" : {
+        "longitude" : 27.68342,
+        "latitude" : 36.72786
+      },
+      "name" : "Arda Cicek",
+      "udid" : "24691DB8-57F2-4227-960F-D57BD3E4A721"
+    },
+    "score" : 1.0,
+    "reftime" : 1433588251533
+  }, {
+    "path" : {
+      "collection" : "dentists",
+      "kind" : "item",
+      "key" : "0a7df292ac2ab421",
+      "ref" : "783067478381f4bd",
+      "reftime" : 1433597122221
+    },
+    "value" : {
+      "location" : {
+        "longitude" : 27.67604,
+        "latitude" : 36.69722
+      },
+      "name" : "Dr. Ibrahim Shultz",
+      "udid" : "24691DB8-57F2-4227-960F-D57BD3E4A721"
+    },
+    "score" : 1.0,
+    "reftime" : 1433597122221
+  }, {
+    "path" : {
+      "collection" : "dentists",
+      "kind" : "item",
+      "key" : "0a7d7ce6d22ab41e",
+      "ref" : "cde1d65c4b018279",
+      "reftime" : 1433589410514
+    },
+    "value" : {
+      "location" : {
+        "longitude" : 27.68484,
+        "latitude" : 36.72639
+      },
+      "name" : "Dr. Buse Bulut",
+      "udid" : "24691DB8-57F2-4227-960F-D57BD3E4A721"
+    },
+    "score" : 1.0,
+    "reftime" : 1433589410514
+  }, {
+    "path" : {
+      "collection" : "dentists",
+      "kind" : "item",
+      "key" : "0a7de4a2d22ab41f",
+      "ref" : "1088ad3d593bff04",
+      "reftime" : 1433596208851
+    },
+    "value" : {
+      "location" : {
+        "longitude" : 27.68929,
+        "latitude" : 36.73449
+      },
+      "name" : "Dr. Yilda Bulut",
+      "udid" : "24691DB8-57F2-4227-960F-D57BD3E4A721"
+    },
+    "score" : 1.0,
+    "reftime" : 1433596208851
+  }, {
+    "path" : {
+      "collection" : "dentists",
+      "kind" : "item",
+      "key" : "0a7df1e1172ab420",
+      "ref" : "27bcc23add62fe19",
+      "reftime" : 1433597076760
+    },
+    "value" : {
+      "location" : {
+        "longitude" : 27.6937,
+        "latitude" : 36.73792
+      },
+      "name" : "Dr. Istiklal Sevinc",
+      "udid" : "24691DB8-57F2-4227-960F-D57BD3E4A721"
+    },
+    "score" : 1.0,
+    "reftime" : 1433597076760
+  }, {
+    "path" : {
+      "collection" : "dentists",
+      "kind" : "item",
+      "key" : "0a7de63d452a4383",
+      "ref" : "7566e28f1faf287c",
+      "reftime" : 1433596313928
+    },
+    "value" : {
+      "location" : {
+        "longitude" : 27.68154,
+        "latitude" : 36.73293
+      },
+      "name" : "Dr. Huseyin Kuku",
+      "udid" : "24691DB8-57F2-4227-960F-D57BD3E4A721"
+    },
+    "score" : 1.0,
+    "reftime" : 1433596313928
+  } ]
+}
